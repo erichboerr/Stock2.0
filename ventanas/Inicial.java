@@ -298,7 +298,6 @@ public class Inicial extends JFrame implements ActionListener{
 		}
 		if(e.getSource()==mntmingresoPorInsumo) {
 			miCoordinador.iniciarPantallaIngresosPorInsumo();
-		}
-		
+		}		
 	}
 }
